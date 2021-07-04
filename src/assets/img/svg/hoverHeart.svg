@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65.991" height="63.166" viewBox="0 0 65.991 63.166">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #f83d61;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #e91c6a;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="Exploding_Heart" data-name="Exploding Heart" transform="translate(10.712 12)">
+    <g id="Dots" class="cls-1" transform="translate(-10.712 -12.149)">
+      <circle id="Ellipse_43" data-name="Ellipse 43" class="cls-2" cx="1.5" cy="1.5" r="1.5" transform="translate(31.712 0.149)"/>
+      <circle id="Ellipse_44" data-name="Ellipse 44" class="cls-2" cx="1.659" cy="1.659" r="1.659" transform="translate(62.215 10.598)"/>
+      <circle id="Ellipse_45" data-name="Ellipse 45" class="cls-2" cx="1.659" cy="1.659" r="1.659" transform="translate(62.673 38.012)"/>
+      <circle id="Ellipse_46" data-name="Ellipse 46" class="cls-2" cx="1.659" cy="1.659" r="1.659" transform="translate(45.282 59.997)"/>
+      <circle id="Ellipse_47" data-name="Ellipse 47" class="cls-2" cx="1.659" cy="1.659" r="1.659" transform="translate(17.39 59.997)"/>
+      <circle id="Ellipse_48" data-name="Ellipse 48" class="cls-2" cx="1.659" cy="1.659" r="1.659" transform="translate(0 38.012)"/>
+      <circle id="Ellipse_49" data-name="Ellipse 49" class="cls-2" cx="1.659" cy="1.659" r="1.659" transform="translate(0.458 10.598)"/>
+    </g>
+    <path id="Simple_Heart" data-name="Simple Heart" class="cls-3" d="M42.525,6.422A11.682,11.682,0,0,0,26,6.422L23.748,8.673,21.5,6.422A11.685,11.685,0,0,0,4.971,22.947L7.223,25.2,23.748,41.724,40.273,25.2l2.251-2.251a11.682,11.682,0,0,0,0-16.525Z" transform="translate(-1.549 -2.998)"/>
+    <path id="Filled_Heart" data-name="Filled Heart" class="cls-2" d="M4.938,6.375a11.694,11.694,0,0,1,16.625,0l2.188,2.25,2.313-2.25a11.545,11.545,0,0,1,16.5,0,11.656,11.656,0,0,1,0,16.5l-2.187,2.25L23.75,41.75,7.25,25.125l-2.312-2.25A11.656,11.656,0,0,1,4.938,6.375Z" transform="translate(-1.516 -2.998)"/>
+  </g>
+</svg>

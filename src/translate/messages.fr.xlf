@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="insp" datatype="html">
+        <source>Inspirations & look</source>
+        <target>Inspirations & look</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="lina" datatype="html">
+        <source>Lina</source>
+        <target>Lina</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="lina2" datatype="html">
+        <source>@lina</source>
+        <target>@lina</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ali" datatype="html">
+        <source>Ali</source>
+        <target>Ali</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ali2" datatype="html">
+        <source>@ali</source>
+        <target>@ali</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="amira" datatype="html">
+        <source>Amira</source>
+        <target>Amira</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="amira2" datatype="html">
+        <source>@amira</source>
+        <target>@amira</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="samia" datatype="html">
+        <source>Samia</source>
+        <target>Samia</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="samia2" datatype="html">
+        <source>@samia</source>
+        <target>@samia</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cadeaux" datatype="html">
+        <source>Cadeaux</source>
+        <target>Cadeaux</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cadeauxDescription" datatype="html">
+        <source>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt veritatis aliquam quod neque consequatur animi eius impedit obcaecati exercitationem qui.</source>
+        <target>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt veritatis aliquam quod neque consequatur animi eius impedit obcaecati exercitationem qui.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="boxZinabel" datatype="html">
+        <source>Box Zinabel</source>
+        <target>Box Zinabel</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="boxDescription" datatype="html">
+        <source>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt veritatis aliquam quod neque consequatur animi eius impedit obcaecati exercitationem qui.</source>
+        <target>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt veritatis aliquam quod neque consequatur animi eius impedit obcaecati exercitationem qui.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="promotion" datatype="html">
+        <source>Promotions</source>
+        <target>Promotions</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="promotionDescription" datatype="html">
+        <source>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt veritatis aliquam quod neque consequatur animi eius impedit obcaecati exercitationem qui.</source>
+        <target>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt veritatis aliquam quod neque consequatur animi eius impedit obcaecati exercitationem qui.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="makeUp" datatype="html">
+        <source>Make Up Vr</source>
+        <target>Make Up Vr</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="makeUpDescription" datatype="html">
+        <source>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt veritatis aliquam quod neque consequatur animi eius impedit obcaecati exercitationem qui.</source>
+        <target>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt veritatis aliquam quod neque consequatur animi eius impedit obcaecati exercitationem qui.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="rollongloss" datatype="html">
+        <source>Roll on gloss</source>
+        <target>Roll on gloss</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="correcteurCouvance" datatype="html">
+        <source>Correcteur Couvrance</source>
+        <target>Correcteur Couvrance</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="shimmerGloss" datatype="html">
+        <source>Shimmer Gloss</source>
+        <target>Shimmer Gloss</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="decouvrir" datatype="html">
+        <source>Découvrir</source>
+        <target>Découvrir</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="mad" datatype="html">
+        <source>MAD</source>
+        <target>MAD</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="vinylGloss" datatype="html">
+        <source>Vinyl Gloss</source>
+        <target>Vinyl Gloss</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="shine" datatype="html">
+        <source>Shine Shine Shine</source>
+        <target>Shine Shine Shine</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="liquidCamouflage" datatype="html">
+        <source>Liquid Camouflage</source>
+        <target>Liquid Camouflage</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="stickConcealer" datatype="html">
+        <source>Stick Concealer</source>
+        <target>Stick Concealer</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="illuminateur" datatype="html">
+        <source>Illuminateur Tourbillon Minéral</source>
+        <target>Illuminateur Tourbillon Minéral</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="meilleures" datatype="html">
+        <source>Meilleures ventes</source>
+        <target>Meilleures ventes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/product-list.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nouveaute" datatype="html">
+        <source>Nouveauté</source>
+        <target>Nouveauté</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/product-list.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bons" datatype="html">
+        <source>Bons Plan</source>
+        <target>Bons Plan</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/product-list.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="communaute" datatype="html">
+        <source>Communauté Zinabel</source>
+        <target>Communauté Zinabel</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/product-list.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="btnsuivez" datatype="html">
+        <source>Suivez-nous sur Instagram</source>
+        <target>Suivez-nous sur Instagram</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/product-list.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosMagasins" datatype="html">
+        <source>Nos Magasins</source>
+        <target>Nos Magasins</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/navbar/navbar.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="connexion" datatype="html">
+        <source>Connexion</source>
+        <target>Connexion</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/navbar/navbar.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="shop" datatype="html">
+        <source>SHOP</source>
+        <target>SHOP</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nouveautes" datatype="html">
+        <source>NOUVEAUTES</source>
+        <target>NOUVEAUTES</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bonsPlans" datatype="html">
+        <source>BONS PLANS</source>
+        <target>BONS PLANS</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="marques" datatype="html">
+        <source>MARQUES</source>
+        <target>MARQUES</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="service" datatype="html">
+        <source>SERVICE PERSONALISE</source>
+        <target>SERVICE PERSONALISE</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="navCommunaute" datatype="html">
+        <source>COMMUNAUTE</source>
+        <target>COMMUNAUTE</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="happening" datatype="html">
+        <source>HAPPENING IN STORE</source>
+        <target>HAPPENING IN STORE</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="slideTitle" datatype="html">
+        <source>Lorem ipsum</source>
+        <target>Lorem ipsum</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="slideDescription" datatype="html">
+        <source>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</source>
+        <target>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="slideConnexion" datatype="html">
+        <source>Connexion</source>
+        <target>Connexion</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Search" datatype="html">
+        <source>Search</source>
+        <target>Search</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+
+      
+      <!--- Footer En Arabe -->
+      
+      <trans-unit id="questionProd" datatype="html">
+        <source>Une question sur un produit ?</source>
+        <target>Une question sur un produit ?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceClient" datatype="html">
+        <source>Service client</source>
+        <target>Service client</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="livraison" datatype="html">
+        <source>Livraison</source>
+        <target>Livraison</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aide" datatype="html">
+        <source>Aide</source>
+        <target>Aide</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="suiviCommande" datatype="html">
+        <source>Suivi de commande</source>
+        <target>Suivi de commande</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contactNous" datatype="html">
+        <source>Contactez Nous</source>
+        <target>Contactez Nous</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="information" datatype="html">
+        <source>information</source>
+        <target>information</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="conditionUtilisation" datatype="html">
+        <source>Conditions générales d'utilisation</source>
+        <target>Conditions générales d'utilisation</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="conditionVente" datatype="html">
+        <source>Conditions générales de vente</source>
+        <target>Conditions générales de vente</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ttGammes" datatype="html">
+        <source>Toutes nos gammes</source>
+        <target>Toutes nos gammes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cookies" datatype="html">
+        <source>Gestion des cookies</source>
+        <target>Gestion des cookies</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aPropos" datatype="html">
+        <source>A propos</source>
+        <target>A propos</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="actualites" datatype="html">
+        <source>Actualités</source>
+        <target>Actualités</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="consultations" datatype="html">
+        <source>Consultations & conseils</source>
+        <target>Consultations & conseils</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="newsletter" datatype="html">
+        <source>newsletter</source>
+        <target>newsletter</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footerInscrivez" datatype="html">
+        <source>Inscrivez-vous à notre newsletter et recevez tous nos bons plans.</source>
+        <target>Inscrivez-vous à notre newsletter et recevez tous nos bons plans.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="btnOk" datatype="html">
+        <source>OK</source>
+        <target>OK</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="paiementSecurise" datatype="html">
+        <source>paiement sécurisé</source>
+        <target>paiement sécurisé</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+
+    </body>
+  </file>
+</xliff>

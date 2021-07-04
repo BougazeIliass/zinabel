@@ -1,0 +1,220 @@
+.header-box .nav-link {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.header-box .navbar {
+  position: absolute;
+  z-index: 1;
+  right: 0px;
+  left: 0px;
+}
+
+.g-slid {
+  overflow: hidden;
+  height: 280px;
+}
+
+.slide-text{
+  position: relative;
+  bottom: 13rem;
+  color: white;
+  left: 160px;
+  width: 295px;
+  height: 198px;
+}
+
+.slide-text p{
+  font-size: 18px;
+}
+
+.slide-text h1{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.btn-conx{
+  padding: 6px 20px;
+  border: 2px solid white;
+  border-radius: 20px;
+  color: white;
+}
+
+
+.img-size {
+  position: relative;
+  bottom: 10%;
+}
+
+.mega-menu {
+  padding: 25px;
+}
+
+
+.mega-menu .row {
+  width: 100%;
+}
+
+.drop {
+  font-size: 15px;
+  color: #6E6E6E;
+  font-weight: lighter;
+}
+
+.mega-menu p {
+  margin-top: 0;
+  margin-bottom: 1px;
+  height: 20px;
+  padding-left: 10px;
+}
+
+.mega-menu p a {
+  padding-left: 20px;
+}
+
+.mega-menu .color-drop {
+  color: #D28C94;
+}
+
+
+
+/*--------------- Responsive Design ---------------*/
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  .g-slid {
+    height: 405px;
+  }
+
+  .slide-texT{
+    position: relative;
+    bottom: 13rem;
+    color: white;
+    left: 160px;
+    width: 295px;
+    height: 198px;
+  }
+
+  .slide-text p{
+    font-size: 18px;
+  }
+
+  .slide-text h1{
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .btn-conx{
+    padding: 6px 20px;
+    border: 2px solid white;
+    border-radius: 20px;
+    color: white;
+  }
+  .mega-menu {
+    padding: 25px;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .g-slid {
+    height: 520px;
+  }
+
+  .slide-text{
+    bottom: 17rem;
+    width: 370px;
+  }
+
+  .slide-text p{
+    font-size: 22px;
+  }
+
+  .slide-text h1{
+    font-size: 35px;
+  }
+
+  .btn-conx{
+    padding: 8px 30px;
+  }
+  .header-box .navbar {
+    position: absolute;
+  }
+  .mega-menu {
+    padding: 25px;
+  }
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .g-slid {
+    height: 605px;
+  }
+
+  .slide-text{
+    bottom: 21rem;
+    width: 440px;
+    height: 220px;
+  }
+
+  .slide-text p{
+    font-size: 25px;
+  }
+
+  .slide-text h1{
+    font-size: 40px;
+  }
+
+  .btn-conx{
+    padding: 10px 30px;
+  }
+  .header-box .navbar {
+    position: relative;
+  }
+  .mega-menu {
+    width: 162vh;
+    padding: 25px;
+    position: relative;
+    top: 34px;
+    left: -180px;
+  }
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .g-slid {
+    height: 730px;
+  }
+
+  .slide-text {
+    bottom: 36rem;
+    width: 500px;
+    height: 290px;
+  }
+  
+  .slide-text h1 {
+    font-size: 70px;
+  }
+  
+  .slide-text p {
+    font-size: 37px;
+  }
+  .btn-conx {
+    padding: 10px 30px;
+  }
+  .header-box .navbar {
+    position: relative;
+  }
+  .mega-menu {
+    width: 162vh;
+    padding: 25px;
+    position: relative;
+    top: 34px;
+    left: -180px;
+  }
+
+}
+
+/*--------------- Responsive Design ---------------*/

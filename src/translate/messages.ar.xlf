@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="insp" datatype="html">
+        <source>Inspirations & look</source>
+        <target>الإلهام والنظر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="lina" datatype="html">
+        <source>Lina</source>
+        <target>لينا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="lina2" datatype="html">
+        <source>@lina</source>
+        <target>@لينا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ali" datatype="html">
+        <source>Ali</source>
+        <target>علي</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ali2" datatype="html">
+        <source>@ali</source>
+        <target>@علي</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="amira" datatype="html">
+        <source>Amira</source>
+        <target>أميرة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="amira2" datatype="html">
+        <source>@amira</source>
+        <target>@أميرة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="samia" datatype="html">
+        <source>Samia</source>
+        <target>سامية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="samia2" datatype="html">
+        <source>@samia</source>
+        <target>@سامية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cadeaux" datatype="html">
+        <source>Cadeaux</source>
+        <target>هدايا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cadeauxDescription" datatype="html">
+        <source>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt veritatis aliquam quod neque consequatur animi eius impedit obcaecati exercitationem qui.</source>
+        <target>سابق أساسي تغييرات لم أما. غزو الدول هيروشيما أم, حين أصقاع الأحمر العالمي إذ, أحدث وبعدما واقتصار عن هذا. فسقط العمليات بحق لم, من قبضتهم الهادي </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="boxZinabel" datatype="html">
+        <source>Box Zinabel</source>
+        <target>صندوق زينابل</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="boxDescription" datatype="html">
+        <source>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt veritatis aliquam quod neque consequatur animi eius impedit obcaecati exercitationem qui.</source>
+        <target>سابق أساسي تغييرات لم أما. غزو الدول هيروشيما أم, حين أصقاع الأحمر العالمي إذ, أحدث وبعدما واقتصار عن هذا. فسقط العمليات بحق لم, من قبضتهم الهادي </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="promotion" datatype="html">
+        <source>Promotions</source>
+        <target>تخفيضات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="promotionDescription" datatype="html">
+        <source>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt veritatis aliquam quod neque consequatur animi eius impedit obcaecati exercitationem qui.</source>
+        <target>سابق أساسي تغييرات لم أما. غزو الدول هيروشيما أم, حين أصقاع الأحمر العالمي إذ, أحدث وبعدما واقتصار عن هذا. فسقط العمليات بحق لم, من قبضتهم الهادي </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="makeUp" datatype="html">
+        <source>Make Up Vr</source>
+        <target>مكياج الافتراضي</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="makeUpDescription" datatype="html">
+        <source>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt veritatis aliquam quod neque consequatur animi eius impedit obcaecati exercitationem qui.</source>
+        <target>سابق أساسي تغييرات لم أما. غزو الدول هيروشيما أم, حين أصقاع الأحمر العالمي إذ, أحدث وبعدما واقتصار عن هذا. فسقط العمليات بحق لم, من قبضتهم الهادي </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/inspirations/inspirations.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="rollongloss" datatype="html">
+        <source>Roll on gloss</source>
+        <target>ملمع شفاه</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="correcteurCouvance" datatype="html">
+        <source>Correcteur Couvrance</source>
+        <target>مصحح عيوب</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="shimmerGloss" datatype="html">
+        <source>Shimmer Gloss</source>
+        <target>ملمع شفاه عالي اللمعان</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="decouvrir" datatype="html">
+        <source>Découvrir</source>
+        <target>اكتشف</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="mad" datatype="html">
+        <source>MAD</source>
+        <target>درهم</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="vinylGloss" datatype="html">
+        <source>Vinyl Gloss</source>
+        <target>لمعان الفينيل</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="shine" datatype="html">
+        <source>Shine Shine Shine</source>
+        <target>ملمع الشفاه</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="liquidCamouflage" datatype="html">
+        <source>Liquid Camouflage</source>
+        <target>تمويه سائل</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="stickConcealer" datatype="html">
+        <source>Stick Concealer</source>
+        <target>مصحح النظر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="illuminateur" datatype="html">
+        <source>Illuminateur Tourbillon Minéral</source>
+        <target>إضاءة توربيون المعدنية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/nouveautes/nouveautes.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="meilleures" datatype="html">
+        <source>Meilleures ventes</source>
+        <target>الأفضل مبيعا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/product-list.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nouveaute" datatype="html">
+        <source>Nouveauté</source>
+        <target>الجديد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/product-list.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bons" datatype="html">
+        <source>Bons Plan</source>
+        <target>نصائح</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/product-list.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="communaute" datatype="html">
+        <source>Communauté Zinabel</source>
+        <target>مجتمع زينابل</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/product-list.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="btnsuivez" datatype="html">
+        <source>Suivez-nous sur Instagram</source>
+        <target>تابعنا على إنستغرم</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content/product-list/product-list.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosMagasins" datatype="html">
+        <source>Nos Magasins</source>
+        <target>متاجرنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/navbar/navbar.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="connexion" datatype="html">
+        <source>Connexion</source>
+        <target>تسجيل الدخول</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/navbar/navbar.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="shop" datatype="html">
+        <source>SHOP</source>
+        <target>تسوق</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nouveautes" datatype="html">
+        <source>NOUVEAUTES</source>
+        <target>الجديد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bonsPlans" datatype="html">
+        <source>BONS PLANS</source>
+        <target>نصائح</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="marques" datatype="html">
+        <source>MARQUES</source>
+        <target>الماركات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="service" datatype="html">
+        <source>SERVICE PERSONALISE</source>
+        <target>خدمة شخصية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="navCommunaute" datatype="html">
+        <source>COMMUNAUTE</source>
+        <target>مجتمع</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="happening" datatype="html">
+        <source>HAPPENING IN STORE</source>
+        <target>يحدث في المتجر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="slideTitle" datatype="html">
+        <source>Lorem ipsum</source>
+        <target>نص وهمي</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="slideDescription" datatype="html">
+        <source>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</source>
+        <target>سابق أساسي تغييرات لم أما. غزو الدول هيروشيما أم, </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="slideConnexion" datatype="html">
+        <source>Connexion</source>
+        <target>تسجيل الدخول</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Search" datatype="html">
+        <source>Search</source>
+        <target>بحث</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/slider/slider.component.html</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+
+      <!--- Footer En Arabe -->
+      
+      <trans-unit id="questionProd" datatype="html">
+        <source>Une question sur un produit ?</source>
+        <target>سؤال عن منتج؟</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceClient" datatype="html">
+        <source>Service client</source>
+        <target>خدمة الزبائن</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="livraison" datatype="html">
+        <source>Livraison</source>
+        <target>توصيل</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aide" datatype="html">
+        <source>Aide</source>
+        <target>مساعدة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="suiviCommande" datatype="html">
+        <source>Suivi de commande</source>
+        <target>تتبع الطلب</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="contactNous" datatype="html">
+        <source>Contactez Nous</source>
+        <target>اتصل بنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="information" datatype="html">
+        <source>information</source>
+        <target>المعلومات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="conditionUtilisation" datatype="html">
+        <source>Conditions générales d'utilisation</source>
+        <target>شروط الخدمة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="conditionVente" datatype="html">
+        <source>Conditions générales de vente</source>
+        <target>الشروط العامة للبيع</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ttGammes" datatype="html">
+        <source>Toutes nos gammes</source>
+        <target>جميع نطاقاتناالشروط العامة للبيع</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cookies" datatype="html">
+        <source>Gestion des cookies</source>
+        <target>إدارة ملفات تعريف الارتباط</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aPropos" datatype="html">
+        <source>A propos</source>
+        <target>حول</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="actualites" datatype="html">
+        <source>Actualités</source>
+        <target>أخبار</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="consultations" datatype="html">
+        <source>Consultations & conseils</source>
+        <target>استشارات وإرشادات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="newsletter" datatype="html">
+        <source>newsletter</source>
+        <target>النشرة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footerInscrivez" datatype="html">
+        <source>Inscrivez-vous à notre newsletter et recevez tous nos bons plans.</source>
+        <target>اشترك في نشرتنا واحصل على جميع خططنا الجيدة.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="btnOk" datatype="html">
+        <source>OK</source>
+        <target>حسنًا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="paiementSecurise" datatype="html">
+        <source>paiement sécurisé</source>
+        <target>دفع امن</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,38 @@
+<nav class="navbar navbar-expand-md navbar-dark navbar-color shadow">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="container-fluid">
+    <div class="collapse navbar-collapse ">
+      <ul class="navbar-nav ml-5 ml-md-1">
+        <li class="nav-item active">
+          <a class="nav-link bnt_lang" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false"><i class="fa fa-chevron-down" aria-hidden="true"></i></a>
+          <div class="dropdown-menu shadow" aria-labelledby="dropdownMenuButton">
+            <ng-container *ngFor="let language of languageList">
+              <a class="dropdown-item" href="/{{language.code}}/">{{language.label}}</a>
+            </ng-container>
+          </div>
+        </li>
+        <li class="nav-item ml-5">
+          <a class="nav-link" href="#"><i class="fa fa-map-marker mr-2" style="font-size: 22px;"></i><span i18n="@@nosMagasins">Nos Magasins</span> </a>
+        </li>
+      </ul>
+
+      <a class="navbar-brand navbar-brand-centered mx-auto d-block d-md-block" href="#"></a>
+
+      <ul class="navbar-nav">
+        <li class="nav-item mr-2">
+          <a class="nav-link" href="#" i18n="@@connexion">Connexion</a>
+        </li>
+        <h3 class="mx-1 d-none d-md-none d-lg-block d-xl-block bar">|</h3>
+        <li class="nav-item ml-2 d-none d-md-none d-sm-none d-lg-block d-xl-block">
+          <a class="nav-link" href="#"><i class="fa fa-shopping-bag"></i></a>
+        </li>
+      </ul>
+      <form class="form-inline ml-3 flex-column d-none d-md-none d-sm-none d-lg-block d-xl-block">
+        <input class="form-control w-75" type="text" i18n-placeholder="@@Search" placeholder="Search">
+      </form>
+    </div>
+  </div>
+</nav>

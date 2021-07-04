@@ -1,0 +1,87 @@
+.navbar-dark {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.navbar-brand-centered {
+  display: block;
+  height: 40px;
+  background-position-x: center;
+  background-position-y: center;
+  background-image: url(/assets/img/svg/logoWhite.svg);
+  background-size: 300px auto;
+  background-repeat: no-repeat;
+  width: 304px;
+}
+
+.bar {
+  color: #fff;
+  opacity: 0.5;
+  font-weight: 300;
+}
+
+.bnt_lang {
+  position: relative;
+  background-image: url(/assets/img/fr.webp);
+  background-repeat: no-repeat;
+  background-size: 36px;
+  background-position: -6px 0px;
+  border-radius: 30px;
+  border: 1px solid #fff;
+  width: 25px;
+  height: 25px;
+  margin: 6px;
+}
+
+.navbar-color {
+  background-color: #D28C94;
+}
+
+.fa-shopping-bag {
+  font-size: 25px;
+}
+
+.fa-chevron-down {
+  position: relative;
+  left: 22px;
+  bottom: 8px;
+  font-size: 13px;
+}
+
+.dropdown-menu {
+  left: 80px;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  .navbar-brand-centered {
+    background-size: auto;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+      .navbar-brand-centered {
+        background-size: 200px;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .navbar-brand-centered {
+    background-size: 215px;
+  }
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .navbar-brand-centered {
+      background-size: 260px;
+      }
+}
+
+
+.form-inline{
+  opacity: 0.5;
+}

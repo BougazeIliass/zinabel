@@ -1,0 +1,230 @@
+<div class="my-4 cards-box">
+
+  <div class="container">
+    <div class="row my-3">
+
+      <div class="col-md-6 col-sm-6 col-xs-12 col-lg-3  card-hover">
+        <div class="heartBox" >
+          <svg viewBox="0 -28 512.00002 512" xmlns="http://www.w3.org/2000/svg" role="button" (click)="activeHeart()" [ngClass]="active ? 'heartBox-Active' : 'heartBox-Unactive'">
+            <path
+              d="m471.382812 44.578125c-26.503906-28.746094-62.871093-44.578125-102.410156-44.578125-29.554687 0-56.621094 9.34375-80.449218 27.769531-12.023438 9.300781-22.917969 20.679688-32.523438 33.960938-9.601562-13.277344-20.5-24.660157-32.527344-33.960938-23.824218-18.425781-50.890625-27.769531-80.445312-27.769531-39.539063 0-75.910156 15.832031-102.414063 44.578125-26.1875 28.410156-40.613281 67.222656-40.613281 109.292969 0 43.300781 16.136719 82.9375 50.78125 124.742187 30.992188 37.394531 75.535156 75.355469 127.117188 119.3125 17.613281 15.011719 37.578124 32.027344 58.308593 50.152344 5.476563 4.796875 12.503907 7.4375 19.792969 7.4375 7.285156 0 14.316406-2.640625 19.785156-7.429687 20.730469-18.128907 40.707032-35.152344 58.328125-50.171876 51.574219-43.949218 96.117188-81.90625 127.109375-119.304687 34.644532-41.800781 50.777344-81.4375 50.777344-124.742187 0-42.066407-14.425781-80.878907-40.617188-109.289063zm0 0" />
+          </svg>
+        </div>
+        <div class="img-box my-3 img-fluid">
+          <img class="card-img-top" src="../assets/img/a1.png" alt="">
+        </div>
+        <div class="card-body">
+          <h4 class="card-title" i18n="@@rollongloss" [ngClass]="lang ? 'text-right' : 'text-left'">Roll on gloss</h4>
+
+          <!---------- Raiting hearts ---------->
+
+          <ng-template #t let-fill="fill">
+            <span class="star" [class.full]="fill === 100">
+              <span class="half" [style.width.%]="fill">&hearts;</span>&hearts;
+            </span>
+          </ng-template>
+
+          <ngb-rating [(rate)]="currentRate" [starTemplate]="t" [readonly]="true" [max]="5"></ngb-rating>
+
+          <!----------End Raiting hearts ---------->
+
+          <h5 class="mad text-right">215 <span i18n="@@mad"> MAD </span></h5>
+          <button type="button" class="btn btn-green text-center" i18n="@@decouvrir">Découvrir</button>
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-6 col-xs-12 col-lg-3  card-hover">
+        <a class="heartBox">
+          <svg viewBox="0 -28 512.00002 512" xmlns="http://www.w3.org/2000/svg" class="heartBox-Unactive">
+            <path
+              d="m471.382812 44.578125c-26.503906-28.746094-62.871093-44.578125-102.410156-44.578125-29.554687 0-56.621094 9.34375-80.449218 27.769531-12.023438 9.300781-22.917969 20.679688-32.523438 33.960938-9.601562-13.277344-20.5-24.660157-32.527344-33.960938-23.824218-18.425781-50.890625-27.769531-80.445312-27.769531-39.539063 0-75.910156 15.832031-102.414063 44.578125-26.1875 28.410156-40.613281 67.222656-40.613281 109.292969 0 43.300781 16.136719 82.9375 50.78125 124.742187 30.992188 37.394531 75.535156 75.355469 127.117188 119.3125 17.613281 15.011719 37.578124 32.027344 58.308593 50.152344 5.476563 4.796875 12.503907 7.4375 19.792969 7.4375 7.285156 0 14.316406-2.640625 19.785156-7.429687 20.730469-18.128907 40.707032-35.152344 58.328125-50.171876 51.574219-43.949218 96.117188-81.90625 127.109375-119.304687 34.644532-41.800781 50.777344-81.4375 50.777344-124.742187 0-42.066407-14.425781-80.878907-40.617188-109.289063zm0 0" />
+          </svg></a>
+        <div class="img-box my-3 img-fluid">
+          <img class="card-img-top" src="../assets/img/a2.png" alt="">
+        </div>
+        <div class="card-body">
+          <h4 class="card-title" i18n="@@shimmerGloss" [ngClass]="lang ? 'text-right' : 'text-left'">Shimmer Gloss</h4>
+          <!---------- Raiting hearts ---------->
+
+          <ng-template #t let-fill="fill">
+            <span class="star" [class.full]="fill === 100">
+              <span class="half" [style.width.%]="fill">&hearts;</span>&hearts;
+            </span>
+          </ng-template>
+
+          <ngb-rating [(rate)]="currentRate" [starTemplate]="t" [readonly]="true" [max]="5"></ngb-rating>
+
+          <!----------End Raiting hearts ---------->
+
+          <h5 class="mad text-right">215 <span i18n="@@mad"> MAD </span></h5>
+          <button type="button" class="btn btn-green text-center" i18n="@@decouvrir">Découvrir</button>
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-6 col-xs-12 col-lg-3  card-hover">
+        <a class="heartBox">
+          <svg viewBox="0 -28 512.00002 512" xmlns="http://www.w3.org/2000/svg" class="heartBox-Unactive">
+            <path
+              d="m471.382812 44.578125c-26.503906-28.746094-62.871093-44.578125-102.410156-44.578125-29.554687 0-56.621094 9.34375-80.449218 27.769531-12.023438 9.300781-22.917969 20.679688-32.523438 33.960938-9.601562-13.277344-20.5-24.660157-32.527344-33.960938-23.824218-18.425781-50.890625-27.769531-80.445312-27.769531-39.539063 0-75.910156 15.832031-102.414063 44.578125-26.1875 28.410156-40.613281 67.222656-40.613281 109.292969 0 43.300781 16.136719 82.9375 50.78125 124.742187 30.992188 37.394531 75.535156 75.355469 127.117188 119.3125 17.613281 15.011719 37.578124 32.027344 58.308593 50.152344 5.476563 4.796875 12.503907 7.4375 19.792969 7.4375 7.285156 0 14.316406-2.640625 19.785156-7.429687 20.730469-18.128907 40.707032-35.152344 58.328125-50.171876 51.574219-43.949218 96.117188-81.90625 127.109375-119.304687 34.644532-41.800781 50.777344-81.4375 50.777344-124.742187 0-42.066407-14.425781-80.878907-40.617188-109.289063zm0 0" />
+          </svg>
+        </a>
+        <div class="img-box my-3 img-fluid">
+          <img class="card-img-top" src="../assets/img/a3.png" alt="">
+        </div>
+        <div class="card-body">
+          <h4 class="card-title" i18n="@@vinylGloss"  [ngClass]="lang ? 'text-right' : 'text-left'">Vinyl Gloss</h4>
+          <!---------- Raiting hearts ---------->
+
+          <ng-template #t let-fill="fill">
+            <span class="star" [class.full]="fill === 100">
+              <span class="half" [style.width.%]="fill">&hearts;</span>&hearts;
+            </span>
+          </ng-template>
+
+          <ngb-rating [(rate)]="currentRate" [starTemplate]="t" [readonly]="true" [max]="5"></ngb-rating>
+
+          <!----------End Raiting hearts ---------->
+          <h5 class="mad text-right">215 <span i18n="@@mad"> MAD </span></h5>
+          <button type="button" class="btn btn-green text-center" i18n="@@decouvrir">Découvrir</button>
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-6 col-xs-12 col-lg-3  card-hover">
+        <a class="heartBox">
+          <svg viewBox="0 -28 512.00002 512" xmlns="http://www.w3.org/2000/svg" class="heartBox-Unactive">
+            <path
+              d="m471.382812 44.578125c-26.503906-28.746094-62.871093-44.578125-102.410156-44.578125-29.554687 0-56.621094 9.34375-80.449218 27.769531-12.023438 9.300781-22.917969 20.679688-32.523438 33.960938-9.601562-13.277344-20.5-24.660157-32.527344-33.960938-23.824218-18.425781-50.890625-27.769531-80.445312-27.769531-39.539063 0-75.910156 15.832031-102.414063 44.578125-26.1875 28.410156-40.613281 67.222656-40.613281 109.292969 0 43.300781 16.136719 82.9375 50.78125 124.742187 30.992188 37.394531 75.535156 75.355469 127.117188 119.3125 17.613281 15.011719 37.578124 32.027344 58.308593 50.152344 5.476563 4.796875 12.503907 7.4375 19.792969 7.4375 7.285156 0 14.316406-2.640625 19.785156-7.429687 20.730469-18.128907 40.707032-35.152344 58.328125-50.171876 51.574219-43.949218 96.117188-81.90625 127.109375-119.304687 34.644532-41.800781 50.777344-81.4375 50.777344-124.742187 0-42.066407-14.425781-80.878907-40.617188-109.289063zm0 0" />
+          </svg>
+        </a>
+        <div class="img-box my-3 img-fluid">
+          <img class="card-img-top" src="../assets/img/a4.png" alt="">
+        </div>
+        <div class="card-body">
+          <h4 class="card-title" i18n="@@shine"  [ngClass]="lang ? 'text-right' : 'text-left'">Shine Shine Shine</h4>
+          <!---------- Raiting hearts ---------->
+
+          <ng-template #t let-fill="fill">
+            <span class="star" [class.full]="fill === 100">
+              <span class="half" [style.width.%]="fill">&hearts;</span>&hearts;
+            </span>
+          </ng-template>
+
+          <ngb-rating [(rate)]="currentRate" [starTemplate]="t" [readonly]="true" [max]="5"></ngb-rating>
+
+          <!----------End Raiting hearts ---------->
+          <h5 class="mad text-right">215 <span i18n="@@mad"> MAD </span></h5>
+          <button type="button" class="btn btn-green text-center" i18n="@@decouvrir">Découvrir</button>
+        </div>
+      </div>
+
+      <div class="col-md-6 col-sm-6 col-xs-12 col-lg-3  card-hover">
+        <a class="heartBox">
+          <svg viewBox="0 -28 512.00002 512" xmlns="http://www.w3.org/2000/svg" class="heartBox-Unactive">
+            <path
+              d="m471.382812 44.578125c-26.503906-28.746094-62.871093-44.578125-102.410156-44.578125-29.554687 0-56.621094 9.34375-80.449218 27.769531-12.023438 9.300781-22.917969 20.679688-32.523438 33.960938-9.601562-13.277344-20.5-24.660157-32.527344-33.960938-23.824218-18.425781-50.890625-27.769531-80.445312-27.769531-39.539063 0-75.910156 15.832031-102.414063 44.578125-26.1875 28.410156-40.613281 67.222656-40.613281 109.292969 0 43.300781 16.136719 82.9375 50.78125 124.742187 30.992188 37.394531 75.535156 75.355469 127.117188 119.3125 17.613281 15.011719 37.578124 32.027344 58.308593 50.152344 5.476563 4.796875 12.503907 7.4375 19.792969 7.4375 7.285156 0 14.316406-2.640625 19.785156-7.429687 20.730469-18.128907 40.707032-35.152344 58.328125-50.171876 51.574219-43.949218 96.117188-81.90625 127.109375-119.304687 34.644532-41.800781 50.777344-81.4375 50.777344-124.742187 0-42.066407-14.425781-80.878907-40.617188-109.289063zm0 0" />
+          </svg>
+        </a>
+        <div class="img-box my-3 img-fluid">
+          <img class="card-img-top" src="../assets/img/a5.png" alt="">
+        </div>
+        <div class="card-body">
+          <h4 class="card-title" i18n="@@correcteurCouvance" [ngClass]="lang ? 'text-right' : 'text-left'">Correcteur Couvrance</h4>
+          <!---------- Raiting hearts ---------->
+
+          <ng-template #t let-fill="fill">
+            <span class="star" [class.full]="fill === 100">
+              <span class="half" [style.width.%]="fill">&hearts;</span>&hearts;
+            </span>
+          </ng-template>
+
+          <ngb-rating [(rate)]="currentRate" [starTemplate]="t" [readonly]="true" [max]="5"></ngb-rating>
+
+          <!----------End Raiting hearts ---------->
+          <h5 class="mad text-right">215 <span i18n="@@mad"> MAD </span></h5>
+          <button type="button" class="btn btn-green text-center" i18n="@@decouvrir">Découvrir</button>
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-6 col-xs-12 col-lg-3 card-hover">
+        <a class="heartBox">
+          <svg viewBox="0 -28 512.00002 512" xmlns="http://www.w3.org/2000/svg" class="heartBox-Unactive">
+            <path
+              d="m471.382812 44.578125c-26.503906-28.746094-62.871093-44.578125-102.410156-44.578125-29.554687 0-56.621094 9.34375-80.449218 27.769531-12.023438 9.300781-22.917969 20.679688-32.523438 33.960938-9.601562-13.277344-20.5-24.660157-32.527344-33.960938-23.824218-18.425781-50.890625-27.769531-80.445312-27.769531-39.539063 0-75.910156 15.832031-102.414063 44.578125-26.1875 28.410156-40.613281 67.222656-40.613281 109.292969 0 43.300781 16.136719 82.9375 50.78125 124.742187 30.992188 37.394531 75.535156 75.355469 127.117188 119.3125 17.613281 15.011719 37.578124 32.027344 58.308593 50.152344 5.476563 4.796875 12.503907 7.4375 19.792969 7.4375 7.285156 0 14.316406-2.640625 19.785156-7.429687 20.730469-18.128907 40.707032-35.152344 58.328125-50.171876 51.574219-43.949218 96.117188-81.90625 127.109375-119.304687 34.644532-41.800781 50.777344-81.4375 50.777344-124.742187 0-42.066407-14.425781-80.878907-40.617188-109.289063zm0 0" />
+          </svg>
+        </a>
+        <div class="img-box my-3 img-fluid">
+          <img class="card-img-top" src="../assets/img/a6.png" alt="">
+        </div>
+        <div class="card-body">
+          <h4 class="card-title" i18n="@@liquidCamouflage" [ngClass]="lang ? 'text-right' : 'text-left'">Liquid Camouflage</h4>
+          <!---------- Raiting hearts ---------->
+
+          <ng-template #t let-fill="fill">
+            <span class="star" [class.full]="fill === 100">
+              <span class="half" [style.width.%]="fill">&hearts;</span>&hearts;
+            </span>
+          </ng-template>
+
+          <ngb-rating [(rate)]="currentRate" [starTemplate]="t" [readonly]="true" [max]="5"></ngb-rating>
+
+          <!----------End Raiting hearts ---------->
+          <h5 class="mad text-right">215 <span i18n="@@mad"> MAD </span></h5>
+          <button type="button" class="btn btn-green text-center" i18n="@@decouvrir">Découvrir</button>
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-6 col-xs-12 col-lg-3  card-hover">
+        <a class="heartBox">
+          <svg viewBox="0 -28 512.00002 512" xmlns="http://www.w3.org/2000/svg" class="heartBox-Unactive">
+            <path
+              d="m471.382812 44.578125c-26.503906-28.746094-62.871093-44.578125-102.410156-44.578125-29.554687 0-56.621094 9.34375-80.449218 27.769531-12.023438 9.300781-22.917969 20.679688-32.523438 33.960938-9.601562-13.277344-20.5-24.660157-32.527344-33.960938-23.824218-18.425781-50.890625-27.769531-80.445312-27.769531-39.539063 0-75.910156 15.832031-102.414063 44.578125-26.1875 28.410156-40.613281 67.222656-40.613281 109.292969 0 43.300781 16.136719 82.9375 50.78125 124.742187 30.992188 37.394531 75.535156 75.355469 127.117188 119.3125 17.613281 15.011719 37.578124 32.027344 58.308593 50.152344 5.476563 4.796875 12.503907 7.4375 19.792969 7.4375 7.285156 0 14.316406-2.640625 19.785156-7.429687 20.730469-18.128907 40.707032-35.152344 58.328125-50.171876 51.574219-43.949218 96.117188-81.90625 127.109375-119.304687 34.644532-41.800781 50.777344-81.4375 50.777344-124.742187 0-42.066407-14.425781-80.878907-40.617188-109.289063zm0 0" />
+          </svg>
+        </a>
+        <div class="img-box my-3 img-fluid">
+          <img class="card-img-top" src="../assets/img/a7.png" alt="">
+        </div>
+        <div class="card-body">
+          <h4 class="card-title" i18n="@@stickConcealer" [ngClass]="lang ? 'text-right' : 'text-left'">Stick Concealer</h4>
+          <!---------- Raiting hearts ---------->
+
+          <ng-template #t let-fill="fill">
+            <span class="star" [class.full]="fill === 100">
+              <span class="half" [style.width.%]="fill">&hearts;</span>&hearts;
+            </span>
+          </ng-template>
+
+          <ngb-rating [(rate)]="currentRate" [starTemplate]="t" [readonly]="true" [max]="5"></ngb-rating>
+
+          <!----------End Raiting hearts ---------->
+          <h5 class="mad text-right">215 <span i18n="@@mad"> MAD </span></h5>
+          <button type="button" class="btn btn-green text-center" i18n="@@decouvrir">Découvrir</button>
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-6 col-xs-12 col-lg-3 card-hover">
+        <a class="heartBox">
+          <svg viewBox="0 -28 512.00002 512" xmlns="http://www.w3.org/2000/svg" class="heartBox-Unactive">
+            <path
+              d="m471.382812 44.578125c-26.503906-28.746094-62.871093-44.578125-102.410156-44.578125-29.554687 0-56.621094 9.34375-80.449218 27.769531-12.023438 9.300781-22.917969 20.679688-32.523438 33.960938-9.601562-13.277344-20.5-24.660157-32.527344-33.960938-23.824218-18.425781-50.890625-27.769531-80.445312-27.769531-39.539063 0-75.910156 15.832031-102.414063 44.578125-26.1875 28.410156-40.613281 67.222656-40.613281 109.292969 0 43.300781 16.136719 82.9375 50.78125 124.742187 30.992188 37.394531 75.535156 75.355469 127.117188 119.3125 17.613281 15.011719 37.578124 32.027344 58.308593 50.152344 5.476563 4.796875 12.503907 7.4375 19.792969 7.4375 7.285156 0 14.316406-2.640625 19.785156-7.429687 20.730469-18.128907 40.707032-35.152344 58.328125-50.171876 51.574219-43.949218 96.117188-81.90625 127.109375-119.304687 34.644532-41.800781 50.777344-81.4375 50.777344-124.742187 0-42.066407-14.425781-80.878907-40.617188-109.289063zm0 0" />
+          </svg>
+        </a>
+        <div class="img-box my-3 img-fluid">
+          <img class="card-img-top" src="../assets/img/a8.png" alt="">
+        </div>
+        <div class="card-body">
+          <h4 class="card-title" i18n="@@illuminateur" [ngClass]="lang ? 'text-right' : 'text-left'">Illuminateur Tourbillon Minéral</h4>
+          <!---------- Raiting hearts ---------->
+
+          <ng-template #t let-fill="fill">
+            <span class="star" [class.full]="fill === 100">
+              <span class="half" [style.width.%]="fill">&hearts;</span>&hearts;
+            </span>
+          </ng-template>
+
+          <ngb-rating [(rate)]="currentRate" [starTemplate]="t" [readonly]="true" [max]="5"></ngb-rating>
+
+          <!----------End Raiting hearts ---------->
+          <h5 class="mad text-right">215 <span i18n="@@mad"> MAD </span></h5>
+          <button type="button" class="btn btn-green text-center" i18n="@@decouvrir">Découvrir</button>
+        </div>
+      </div>
+
+    </div>
+    
+  </div>
+
+</div>

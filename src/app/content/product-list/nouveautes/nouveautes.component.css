@@ -1,0 +1,230 @@
+/*--------- Menu --------*/
+
+.c-menu {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .c-menu a {
+    color: #514F62;
+  
+  }
+  
+  .c-menu a:hover {
+    color: #E91C6A;
+  }
+  
+  .c-menu a:active {
+    color: #E91C6A;
+  }
+  
+  /*---------END Menu --------*/
+  
+  
+  .img-box {
+    position: relative;
+    ;
+    overflow: hidden;
+  }
+  
+  .card-body .card-title {
+    text-align: center;
+    width: 100%;
+    font-size: 17px;
+  }
+  
+  .cards-box {
+    width: 100%;
+    padding: 90px;
+  }
+  
+  .heartBox {
+    position: relative;
+    top: 20px;
+    left: 190px;
+    z-index: 1;
+    cursor: pointer;
+  }
+  
+  .heartBox:active {
+    border: none;
+  }
+  
+  .heartBox svg {
+    max-height: 37px;
+    stroke-width: 20px;
+    stroke: #E91C6A;
+    width: 42px;
+  }
+  .heartBox-Active{
+    fill:#E91C6A;
+  }
+  .heartBox-Unactive{
+    fill:none;
+  }
+  
+  .heartBox svg:hover {
+    fill: #E91C6A;
+    max-height: 37px;
+    stroke-width: 20px;
+    stroke: none;
+    width: 42px;
+  }
+  
+  .card-body .card-title {
+    text-align: left;
+    font-size: 15px;
+  }
+  
+  .card-title {
+    margin-bottom: 0;
+  }
+  
+  .mad {
+    font-size: 15px;
+    font-weight: 700;
+    color: #E91C6A;
+  }
+  
+  /*--------- Title -----------*/
+  
+  .univers-title {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: #514F62;
+    text-align: center;
+  }
+  
+  .univers-title hr {
+    border-top: 3px dashed #E91C6A;
+    position: relative;
+    top: 40px;
+    z-index: -1;
+  }
+  
+  .univers-title h2 {
+    margin-left: 419px;
+    font-size: 42px;
+    width: 261px;
+    color: #D38C94;
+  }
+  
+  /*--------- END Title -----------*/
+  
+  /*--------- card ---------*/
+  
+  .card {
+    overflow: hidden;
+    height: 365px;
+    width: 365px;
+    border: none;
+    border-radius: 0;
+  }
+  
+  .mt-6 {
+    margin-top: 5rem;
+  }
+  
+  .mb-7 {
+    margin-bottom: 8rem;
+  }
+  
+  .btn-zinabel {
+    color: #fff;
+    background-color: #D75265;
+    border-color: #D75265;
+  }
+  
+  /*--------- End card ---------*/
+  
+  
+  /* ---------- Raiting hearts ---------- */
+  
+  .star {
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+    color: #d3d3d3;
+  }
+  
+  .full {
+    color: #E91C6A;
+  }
+  
+  .half {
+    position: absolute;
+    display: inline-block;
+    overflow: hidden;
+    color: #E91C6A;
+  }
+  
+  /* ---------- Raiting hearts ---------- */
+  
+  /*-----------Découvrir button ----------*/
+  
+  .btn-green {
+    background-color: #00938D;
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    width: 120px;
+    margin-left: 21%;
+    opacity: 0;
+    position: relative;
+    top: 30px;
+    transition: all ease-in-out 0.3s;
+  }
+  
+  .card-hover .img-box img {
+    transition: all ease-in-out 0.3s;
+    padding: 15px;
+  }
+  
+  .card-hover:hover .btn-green {
+    transform: translateY(-25px);
+    opacity: 1;
+  }
+  
+  .card-hover:hover .img-box img {
+    transform: scale(1.2, 1.2);
+  }
+  
+  /*-----------Découvrir button ----------*/
+  
+  /*--------------- Responsive Design ---------------*/
+  
+  /* Small devices (landscape phones, 576px and up) */
+  @media (min-width: 576px) {}
+  
+  /* Medium devices (tablets, 768px and up) */
+  @media (min-width: 768px) {}
+  
+  /* Large devices (desktops, 992px and up) */
+  @media (min-width: 992px) {
+    .cards-box {
+      width: 100%;
+      height: 165vh;
+      padding: 90px;
+      background-image: url(/assets/img/svg/bg2.svg);
+      background-repeat: no-repeat;
+      background-size: 100%;
+      background-position-y: 365px;
+    }
+  }
+  
+  /* Extra large devices (large desktops, 1200px and up) */
+  @media (min-width: 1200px) {
+    .cards-box {
+      width: 100%;
+      height: 210vh;
+      padding: 90px;
+      background-image: url(/assets/img/svg/bg2.svg);
+      background-repeat: no-repeat;
+      background-size: 100%;
+      background-position-y: 365px;
+    }
+  }
+  
+  /*--------------- Responsive Design ---------------*/
+  

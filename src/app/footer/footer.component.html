@@ -1,0 +1,101 @@
+  <!--Footer-->
+  <footer class="page-footer text-center text-md-left px-4">
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-2 col-lg-2 col-4 offset-md-1 offset-lg-2 offset-xl-3 offset-xs-0 icon-ft"><img
+            src="../assets/img/svg/f2.svg" class="img-fluid" alt="" style="width: 80px;"></div>
+        <div class="col-md-2 col-lg-2 col-4 icon-ft"><img src="../assets/img/svg/f1.svg" class="img-fluid" alt=""
+            style="width: 140px;"></div>
+        <div class="col-md-2 col-lg-2 col-xl-1 col-4 icon-ft"><img src="../assets/img/svg/f3.svg" class="img-fluid"
+            alt=""></div>
+        <div class="col-md-5 col-lg-4 col-12 mt-4 mt-md-4 mt-lg-0 mt-xl-0 icon-ft">
+          <h4 i18n="@@questionProd">Une question sur un produit ?</h4>
+          <p class="font-weight-bolder">0500 000 000</p>
+        </div>
+      </div>
+    </div>
+
+    <!--Footer Links-->
+    <div class="container-fluid container-height mt-5">
+
+      <div class="row">
+
+        <!--First column-->
+        <div class="logo-box col-lg-2 col-md-6  pl-md-4 mb-5 mb-md-0">
+          <a href="#!"><img src="../assets/img/svg/logoWhite.svg" alt="" class="img-fluid"></a>
+        </div>
+        <!--/.First column-->
+
+
+        <!--Second column-->
+        <div class="col-lg-2 d-md-none d-lg-block d-xl-block d-none mx-auto"
+          [ngClass]="lang ? 'text-right' : 'text-left'">
+          <h5 class="text-uppercase font-weight-bold mb-4 font-weight-bolder" i18n="@@serviceClient">Service client</h5>
+          <ul class="list-unstyled">
+            <li class="mb-3"><a href="#!" class="text-decoration-none " i18n="@@livraison">Livraison</a></li>
+            <li class="mb-3"><a href="#!" class="text-decoration-none " i18n="@@aide">Aide</a></li>
+            <li class="mb-3"><a href="#!" class="text-decoration-none " i18n="@@suiviCommande">Suivi de commande</a>
+            </li>
+            <li class="mb-3"><a href="#!" class="text-decoration-none " i18n="@@contactNous">Contactez nous</a></li>
+          </ul>
+        </div>
+        <!--/.Second column-->
+
+
+        <!--Third column-->
+        <div class="col-lg-2 d-md-none d-lg-block d-xl-block d-none mx-auto"
+          [ngClass]="lang ? 'text-right' : 'text-left'">
+          <h5 class="text-uppercase font-weight-bold mb-2 font-weight-bolder" i18n="@@information">information</h5>
+          <ul class="list-unstyled">
+            <li class="mb-3"><a href="#!" class="text-decoration-none" i18n="@@conditionUtilisation">Conditions
+                générales d'utilisation</a></li>
+            <li class="mb-3"><a href="#!" class="text-decoration-none" i18n="@@conditionVente">Conditions générales de
+                vente</a></li>
+            <li class="mb-3"><a href="#!" class="text-decoration-none" i18n="@@ttGammes">Toutes nos gammes</a></li>
+            <li class="mb-3"><a href="#!" class="text-decoration-none" i18n="@@cookies">Gestion des cookies</a></li>
+          </ul>
+        </div>
+        <!--/.Third column-->
+
+
+        <!--Fourth column-->
+        <div class="col-lg-2 d-md-none d-lg-block d-xl-block d-none mx-auto"
+          [ngClass]="lang ? 'text-right' : 'text-left'">
+          <h5 class="text-uppercase font-weight-bold mb-4 font-weight-bolder" i18n="@@aPropos">a propos</h5>
+          <ul class="list-unstyled">
+            <li class="mb-3"><a href="#!" class="text-decoration-none">Zinabel</a></li>
+            <li class="mb-3"><a href="#!" class="text-decoration-none" i18n="@@nosMagasins">Nos magasins</a></li>
+            <li class="mb-3"><a href="#!" class="text-decoration-none" i18n="@@actualites">Actualités</a></li>
+            <li class="mb-3"><a href="#!" class="text-decoration-none" i18n="@@consultations">Consultations &
+                conseils</a></li>
+          </ul>
+        </div>
+        <!--/.Fourth column-->
+
+        <!--Five column-->
+        <div class="col-lg-4 col-12 col-md-6 mx-auto">
+          <h5
+            class="text-uppercase font-weight-bold d-md-none d-lg-inline d-xl-inline d-none font-weight-bolder text-nowrap"
+            style="width: 8rem;" i18n="@@newsletter" [ngClass]="lang ? 'text-right' : 'text-left'">newsletter</h5>
+          <p class="d-md-none d-lg-block d-xl-block d-none" i18n="@@footerInscrivez" [ngClass]="lang ? 'text-right' : 'text-left'">Inscrivez-vous à notre newsletter et recevez tous nos bons
+            plans.</p>
+          <form class="form-inline d-md-none d-lg-block d-xl-block d-none my-4" [ngClass]="lang ? 'text-right' : 'text-left'">
+            <input class="form-control shadow" type="text" i18n-placeholder="@@Search" placeholder="Search">
+            <button type="button" class="btn btn-search font-weight-bold shadow" i18n="@@btnOk">OK</button>
+          </form>
+          <div class="paiement-box mx-auto">
+            <h5 class="text-uppercase text-center text-p" i18n="@@paiementSecurise"
+              [ngClass]="lang ? 'text-right' : 'text-left'">paiement sécurisé</h5>
+            <img class="payz-img img-fluid" src="../assets/img/paiement.png" alt="">
+          </div>
+        </div>
+        <!--/.Five column-->
+
+      </div>
+    </div>
+    <!--/.Footer Links-->
+
+
+  </footer>
+  <!--/.Footer-->

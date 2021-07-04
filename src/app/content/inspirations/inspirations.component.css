@@ -1,0 +1,227 @@
+/*--------- Univers Title -----------*/
+
+.univers-title {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  color: #514F62;
+  text-align: center;
+}
+
+.univers-title h2 {
+  font-size: 42px;
+  width: 261px;
+  color: #D38C94;
+}
+
+/*--------- END Univers Title -----------*/
+
+/*----------inspiration card ---------*/
+.cards-b {
+  margin: 50px 0px 0px 0px;
+  padding: 50px 0px;
+}
+
+.cards-b .img-box {
+  position: relative;
+  overflow: hidden;
+}
+
+.cards-b .img-box img {
+  transition: all ease-in-out 0.3s;
+}
+
+.cards-b .img-box img:hover {
+  transform: scale(1.2, 1.2);
+}
+
+.cards-b .card-body .card-title {
+  text-align: center;
+  width: 100%;
+  font-size: 17px;
+}
+
+.card-body {
+  padding: 7px;
+}
+
+.cards-b .card-body .card-title {
+  text-align: left;
+  color: #D38C94;
+  font-weight: 600;
+}
+
+.name-card {
+  width: 70%;
+  text-align: center;
+  margin: 10px 40px;
+  border: 1px solid gray;
+  border-radius: 50px;
+}
+
+.smedia div {
+  width: 20px;
+  height: 40px;
+  border: 1px solid gray;
+}
+
+.card {
+  background-color: transparent;
+  border: none;
+}
+
+.card-body h6 {
+  font-size: 20px;
+  color: #D38C94;
+}
+
+
+/*----------END inspiration card ---------*/
+
+/*----------- card -----------*/
+
+.promotion .card {
+  background-color: #D75265;
+  position: relative;
+  height: 300px;
+  margin: 10px;
+}
+
+.promotion .img-box {
+  overflow: hidden;
+  width: 300px;
+  height: 200px;
+  position: relative;
+  top: 33.15%;
+  left: 35%;
+}
+
+.promotion .card-body {
+  position: absolute;
+  bottom: 55%;
+  width: 70%;
+}
+
+.promotion .card-title {
+  font-size: 1.4rem;
+  font-family: Courgette;
+  color: #fff;
+}
+
+.promotion .card-text {
+  font-size: 0.7rem;
+  color: #fff;
+}
+
+/*--------- End card ---------*/
+
+
+/*--------------- Responsive Design ---------------*/
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+
+  .promotion .card {
+    position: relative;
+    left: 0%;
+  }
+
+
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+  .promotion .card {
+    position: relative;
+    left: 5%;
+  }
+
+  .promotion .img-box {
+    height: 182px;
+    position: relative;
+    top: 39.15%;
+    left: -4%;
+  }
+
+  .cards-b .img-box {
+    height: 200px;
+  }
+
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+  .promotion .card {
+    position: relative;
+    left: 7%;
+  }
+
+  .promotion .img-box {
+    height: 200px;
+    top: 33.18%;
+    left: 22%;
+  }
+
+  .cards-b .img-box {
+    height: 275px;
+  }
+
+
+  .cards-b {
+    height: 95vh;
+    margin: 50px 0px 0px 0px;
+    padding: 50px 0px;
+    background-image: url(/assets/img/svg/bg1.svg);
+    background-size: 100%;
+    background-position-y: -4px;
+  }
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+  .promotion .card {
+    position: relative;
+    left: 7%;
+  }
+
+  .promotion .img-box {
+    height: 200px;
+    top: 33.18%;
+    left: 35%;
+  }
+
+  .cards-b .img-box {
+    height: 342px;
+  }
+
+
+  .cards-b {
+    height: 44rem;
+    margin: 0px;
+    padding: 50px 0px;
+    background-image: url(/assets/img/svg/bg1.svg);
+    background-size: 100%;
+    background-position-y: -192px;
+    background-repeat: no-repeat;
+  }
+
+}
+
+/*--------------- Responsive Design ---------------*/
+
+.carousel-control-prev-icon {
+  background-image: none;
+}
+
+.carousel-control-next-icon {
+  background-image: none;
+}
+
+.cards-box a i {
+  color: #D75265;
+}
